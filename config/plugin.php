@@ -3,6 +3,7 @@
 use Cake\Core\Plugin;
 
 Plugin::load('AssetCompress', ['bootstrap' => true]);
+Plugin::load('BootstrapUI');
 Plugin::load('DebugKit', ['bootstrap' => true]);
 Plugin::load('Crud');
 Plugin::load('Migrations');

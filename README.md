@@ -19,6 +19,7 @@ changes, some pre-installed/configured libraries/plugins and some 'best practice
 * [cakephp/cakephp][cakephp/repo] to power the application.
 * [cakephp/debug_kit][debug_kit/repo] - the official CakePHP debugging tool.
 * [cakephp/migrations][migrations/repo] - the official CakePHP migrations shell.
+* [friendsofcake/bootstrap-ui][foc/bootstrap-ui/repo] to quickly get things going.
 * [friendsofcake/crud][foc/crud/repo] to quickly get things going.
 * [gourmet/faker][faker/repo] to generate fixture and seed data.
 * [gourmet/robo][robo/repo] to run build or other tasks using [Robo][robo].
@@ -124,6 +125,7 @@ Copyright (c) 2015, Jad Bitar and licensed under [The MIT License][mit].
 [debug_kit/repo]://github.com/cakephp/debug_kit
 [dotenv/repo]://github.com/josegonzalez/php-dotenv
 [faker/repo]://github.com/gourmet/faker
+[foc/bootstrap-ui/repo]://github.com/friendsofcake/bootstrap-ui
 [foc/crud/repo]://github.com/friendsofcake/crud
 [gourmet/box]://github.com/gourmet/box/
 [jquery]:http://jquery.com
