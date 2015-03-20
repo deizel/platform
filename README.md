@@ -16,6 +16,8 @@ changes, some pre-installed/configured libraries/plugins and some 'best practice
 
 ### Composer
 
+#### PHP packages
+
 * [cakephp/cakephp][cakephp/repo] to power the application.
 * [cakephp/migrations][migrations/repo] - the official CakePHP migrations shell.
 * [friendsofcake/crud][foc/crud/repo] to quickly get things going.
@@ -25,7 +27,7 @@ changes, some pre-installed/configured libraries/plugins and some 'best practice
 * [markstory/asset_compress][asset_compress/repo] to handle asset compression, minification, etc.
 * [mobiledetect/mobiledetectlib][mobiledetect/repo].
 
-##### Developer mode
+#### PHP packages - Developer mode
 
 * [cakephp/bake][bake/repo] - the official CakePHP bake tool.
 * [cakephp/cakephp-codesniffer][codesniffer/repo] - the official CakePHP code standard sniffs.
@@ -36,14 +38,14 @@ changes, some pre-installed/configured libraries/plugins and some 'best practice
 * [d11wtq/boris][boris/repo]
 * [gourmet/whoops][whoops/repo] to beautify errors and exceptions (only in debug mode)
 
-### Bower
+#### Composer plugins
+
+* [francoispluchino/composer-asset-plugin][composer-asset-plugin/repo] to manage NPM/Bower dependencies
+
+#### Bower assets
 
 * [twbs/bootstrap][bootstrap]
 * [jquery/jquery][jquery]
-
-### Node
-
-* [Bower][bower] - Front-end package manager
 
 ## Get started
 
